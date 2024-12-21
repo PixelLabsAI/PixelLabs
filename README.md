@@ -6,7 +6,7 @@
 
 Pixel Labs is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory. The project's ultimate goal is to create an AI agent that can learn and reason like a human, with the hope of better understanding the nature of human cognition.
 
-Visit our website at [pixellabs.cx](https://pixellabs.cx)
+Visit our website at [pixellabs.ac](https://pixellabs.ac)
 
 ## ✔️ Features
 
