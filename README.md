@@ -2,8 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/labs_pixel?style=social)](https://x.com/labs_pixel)
 
-<img src="https://pbs.twimg.com/profile_images/1870517655137923072/wlbSxMUJ_400x400.png" alt="Pixel Labs Logo" width="200">
-
 <img src="https://pbs.twimg.com/profile_banners/1870512576741666816/1734801237/1500x500" alt="Pixel Labs Cover" width="100%">
 
 Pixel Labs is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory. The project's ultimate goal is to create an AI agent that can learn and reason like a human, with the hope of better understanding the nature of human cognition.
